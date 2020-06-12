@@ -2,7 +2,7 @@
 Tells the user a funny joke
 
 ## About
-Tells the user a funny joke related to biology or computer science
+Responds to the user by telling the user a funny joke after the user requests a joke
 
 ## Examples
 * "Tell"
@@ -10,6 +10,9 @@ Tells the user a funny joke related to biology or computer science
 * "Funny joke"
 * "Silly joke"
 * "Make me laugh"
+* "Tell me a joke"
+* "Tell me a funny joke"
+* "Tell me a good joke"
 
 ## Credits
 Vivian Wang
